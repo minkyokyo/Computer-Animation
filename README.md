@@ -1,14 +1,3 @@
-# OpenGl 라이브러리 설치 방법
-1.  GLU, OPENGL => 기본으로 깔려있어서 설치할 필요 없습니다.
-2.  GLFW -> www.glfw.org
-     다운받고 압축 해제하면 include/GLFW가 나온다. {VC Root}/include에 넣기.
-     lib-vc[version]/.lib 를 {VC Root}/lib에 넣기
-     lib-vc[version]/.dll 를 %SystemRoot%/system32에 넣기.
-4.  GLEW -> http://glew.sourceforge.net/index.html 
-
-# Link
-opengl32.lib, glfw3.lib, glu32.lib, glew32s.lib 추가
-
 # Computer-Animation
 컴퓨터 애니메이션에 관하여 공부했습니다.
 
@@ -25,3 +14,14 @@ opengl32.lib, glfw3.lib, glu32.lib, glew32s.lib 추가
 [11. kinematics](www.naver.com)  
 [12. inverse kinematics](www.naver.com)  
 [13. rigidbody ](www.naver.com)  
+
+# OpenGl 라이브러리 설치 방법
+1.  GLU, OPENGL => 기본으로 깔려있어서 설치할 필요 없습니다.
+2.  GLFW -> www.glfw.org
+     다운받고 압축 해제하면 include/GLFW가 나온다. {VC Root}/include에 넣기.
+     lib-vc[version]/.lib 를 {VC Root}/lib에 넣기
+     lib-vc[version]/.dll 를 %SystemRoot%/system32에 넣기.
+4.  GLEW -> http://glew.sourceforge.net/index.html 
+
+# Link
+opengl32.lib, glfw3.lib, glu32.lib, glew32s.lib 추가
