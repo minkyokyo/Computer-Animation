@@ -1,9 +1,9 @@
 # Computer-Animation
 컴퓨터 애니메이션에 관하여 공부했습니다.
 
-[1.  Mesh -> Shrunken, Offset](https://github.com/minkyokyo/Computer-Animation/tree/main/1.Mesh%20and%20Eigen)  
-[2.  Phong Shading ](https://github.com/minkyokyo/Computer-Animation/tree/main/2.%20%20Phong%20Shading)  
-[3.  Texturing](https://github.com/minkyokyo/Computer-Animation/tree/main/3.%20%20Texturing)   
+[1.  Mesh -> Shrunken, Offset](https://github.com/minkyokyo/Computer-Animation/tree/main/1.%20%20Mesh%20and%20Eigen)  
+[2.  Phong Shading ](https://github.com/minkyokyo/Computer-Animation/tree/main/2.%20%20Phong%20Shading)
+[3.  Texturing](https://github.com/minkyokyo/Computer-Animation/tree/main/3.%20%20Texturing)  
 [4.  Deformation](https://github.com/minkyokyo/Computer-Animation/tree/main/4.%20%20Deformation) 
 [5.  Mesh Component Selection](https://github.com/minkyokyo/Computer-Animation/tree/main/5.%20%20Mesh%20Component%20Selection)    
 [6.  Rotation](https://github.com/minkyokyo/Computer-Animation/tree/main/6.%20%20Rotation)  
