@@ -12,7 +12,7 @@ opengl32.lib, glfw3.lib, glu32.lib, glew32s.lib 추가
 # Computer-Animation
 컴퓨터 애니메이션에 관하여 공부했습니다.
 
-[1. ](https://github.com/minkyokyo/Computer-Animation/tree/main/1.Mesh%20and%20Eigen)  
+[1.Mesh -> Shrunken, Offset ] (https://github.com/minkyokyo/Computer-Animation/tree/main/1.Mesh%20and%20Eigen)  
 [2. ](www.naver.com)  
 [3. ](www.naver.com)  
 [4. ](www.naver.com)  
